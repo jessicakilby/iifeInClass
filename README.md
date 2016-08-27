@@ -1,7 +1,7 @@
-# iife practice in class
+# IIFE Sedan
 
 ## Description
-Introduction to iife syntax and structure.
+IIFE practice in class:  introduction to iife syntax and structure.
 
 ## How to run
 In your terminal run:
